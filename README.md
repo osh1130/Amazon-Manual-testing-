@@ -8,6 +8,6 @@
 ##Part7 BugReport
 
 work flow
-![Market](https://user-images.githubusercontent.com/67772254/155050860-9860a4fb-86c7-4176-b47c-5c9f75735c4b.png)
+![Amazon](https://user-images.githubusercontent.com/67772254/155050951-e7627398-bfea-44d3-ad37-3b9f070dc8fa.png)
 
 
